@@ -1,0 +1,202 @@
+121	one to one
+a/s/l	age, sex, location
+adn	any day now
+afaik	as far as I know
+afk	away from keyboard
+aight	alright
+alol	actually laughing out loud
+b4	before
+b4n	bye for now
+bak	back at the keyboard
+bf	boyfriend
+bff	best friends forever
+bfn	bye for now
+bg	big grin
+bta	but then again
+btw	by the way
+cid	crying in disgrace
+cnp	continued in my next post
+cp	chat post
+cu	see you
+cul	see you later
+cul8r	see you later
+cuz	bacause
+cya	bye
+cyo	see you online
+dbau	doing business as usual
+fud	fear, uncertainty, and doubt
+fwiw	for what it's worth
+fyi	for your information
+g	grin
+g2g	got to go
+ga	go ahead
+gal	get a life
+gf	girlfriend
+gfn	gone for now
+gmbo	giggling my butt off
+gmta	great minds think alike
+h8	hate
+hagn	have a good night
+hdop	help delete online predators
+hhis	hanging head in shame
+iac	in any case
+ianal	I am not a lawyer
+ic	I see
+idk	I don't know
+imao	in my arrogant opinion
+imnsho	in my not so humble opinion
+imo	in my opinion
+iow	in other words
+ipn	I’m posting naked
+irl	in real life
+jk	just kidding
+l8r	later
+ld	later, dude
+ldr	long distance relationship
+llta	lots and lots of thunderous applause
+lmao	laugh my ass off
+lmirl	let's meet in real life
+lol	laugh out loud
+ltr	longterm relationship
+lulab	love you like a brother
+lulas	love you like a sister
+luv	love
+m/f	male or female
+m8	mate
+milf	mother I would like to fuck
+oll	online love
+omg	oh my god
+otoh	on the other hand
+pir	parent in room
+ppl	people
+r	are
+rofl	roll on the floor laughing
+rpg	role playing games
+ru	are you
+shid	slaps head in disgust
+somy	sick of me yet
+sot	short of time
+thanx	thanks
+thx	thanks
+ttyl	talk to you later
+u	you
+ur	you are
+uw	you’re welcome
+wb	welcome back
+wfm	works for me
+wibni	wouldn't it be nice if
+wtf	what the fuck
+wtg	way to go
+wtgp	want to go private
+ym	young man
+AAMOF	As A Matter Of Fact
+AFAIK	As Far As I Know
+AFAIC	As Far As I’m Concerned
+AFAICT	As Far As I Can Tell
+AFK	Away From Keyboard
+ASAP	As Soon As Possible
+ASL	Age,Sex,Location
+BAG	Big ass Grin
+BAK	Back At Keyboard
+BBL	Be Back Later
+BF	BoyFriend
+BFD	Big Fricken Deal
+BITMT	But In The Meantime
+BOT	Back On Topic
+BRB	Be Right Back
+BSEG	BIG Shit Eat’n Grin
+BTW	By the way
+C4N	Ciao For Now
+CRS	can’t Remember “Stuff”
+CU	See You
+CUL8R	See You Later
+CWOT	Complete Waste Of Time
+CYA	See Ya
+DIY	Do It Yourself
+EOD	End Of Discussion
+EZ	Easy
+F2F	Face To Face
+FAQ	Frequently Asked Questions
+FBOW	For Better Or Worse
+FOAF	Friend Of A Friend
+FOCL	Falling Off Chair Laughing
+FWIW	For What It’s Worth
+FYA	For Your Amusement
+FYI	For Your Information
+/ga	Go Ahead
+GAL	Get A Life
+GBTW	Get Back To Work
+GF	Girlfriend
+GFC	Going For Coffee
+GFETE	Grinning From Ear To Ear
+GMTA	Great minds think alike
+GR&D	Grinning, Running and Ducking
+GTG	Got To Go
+GTGTTBR	Got To Go To The Bathroom
+GTRM	Going To Read Mail
+GU	Geographically Undesirable
+H8	Hate
+HAND	Have A Nice Day
+HHOK	Ha Ha Only Kidding
+HTH	Hope This Helps
+IAC	In Any Case
+IAE	In Any Event
+IANAL	I am not a lawyer
+IC	I See
+IDGI	I Don’t Get It
+IMCO	In My Considered Opinion
+IMHO	In my humble opinion
+IMNHO	In my NEVER humble opinion
+IMNSHO	in My Not So Humble Opinion
+IMO	In My Opinion
+IMPE	In My Personal Experience
+IMVHO	In My Very Humble Opinion
+IOW	In Other Words
+IRL	In Real Life
+ISP	Internet Service Provider
+IYKWIM	If You Know What I Mean
+JIC	Just In Case
+J/K	Just kidding
+KISS	Keep It Simple Stupid
+L8R	Later
+LOL	Laughing Out Loud
+LMAO	Laughing My Arse Off
+LMFAO	Laughing My Fucking Arse Off
+LTNS	Long Time No See
+MorF	Male or Female
+MTCW	My Two Cents Worth
+NBD	No Big Deal
+NRN	No Reply Necessary
+NTK	Need To Know
+ONNA	Oh No, Not Again!
+OTOH	On The Other Hand
+OTTOMH	Off the top of my head
+OIC	Oh I See
+OTF	On The Floor
+OLL	Online Love
+PITA	Pain In The ass
+PLS	Please
+PSTFU	Please…Shut The Fluck Up
+PU	That Stinks!
+REHI	Hello Again
+RL	Real Life
+ROFL	Rolling On Floor Laughing
+ROTF	Rolling On The Floor
+ROTFL	Rolling On The Floor Laughing
+RSN	Real Soon Now
+RTDox	Read The Documentation
+RTFM	Read The Frickin’ Manual
+RUOK	Are You OK?
+RW	Real World
+SNAFU	Situation Normal All Fouled Up
+SO	Significant Other
+SOL	Smiling Out Loud
+TANSTAAFL	There Ain’t No Such Thing As A Free Lunch
+TAFN	That’s All For Now
+TEOTWAWKI	The End Of The World As We Know It
+TMI	To Much Information
+TTFN	Ta Tah For Now
+TY	Thank You
+WEG	Wicked Evil Grin
+WTF	What The Fuck
+YW	Your Welcome
